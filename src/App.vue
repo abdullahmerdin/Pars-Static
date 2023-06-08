@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import Navbar from './pages/Navbar.vue.js'
 </script>
 
 <template>
-  <HelloWorld msg="Vite + Vue" />
+  <Navbar/>
 </template>
 
 <style scoped>
